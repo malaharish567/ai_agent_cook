@@ -87,4 +87,4 @@ final_response = completion_2.choices[0].message.parsed
 final_response.temperature
 final_response.response
 
-print(final)
+print(final_response)
